@@ -16,17 +16,23 @@ Type the Verilog code for the Traffic Light Controler
 3. Observe the Output
 Observe the Traffic Signal output.
 
-# code
+# RTL code
+
+<img width="1918" height="1077" alt="rtl code traffic" src="https://github.com/user-attachments/assets/a42c050a-f761-4f4e-b563-bc24beb41090" />
 
 
-# Tes Bench
+# Test Bench
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/1bd8414f-59f2-450d-8816-e41858bcd2ae" />
 
 
 # output
 
+<img width="1918" height="1078" alt="traffic light rtl output" src="https://github.com/user-attachments/assets/ec13f29b-d5a2-40a3-8bb2-dc2e95d5a83c" />
+
 
 # Result
 
-
+Thus the simulation for a Verilog HDL of a Traffic Light Controler was designed and executed successfully.
 
 
