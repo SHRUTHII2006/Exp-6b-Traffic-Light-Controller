@@ -26,11 +26,6 @@ Observe the Traffic Signal output.
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/1bd8414f-59f2-450d-8816-e41858bcd2ae" />
 
 
-# output
-
-<img width="1918" height="1078" alt="traffic light rtl output" src="https://github.com/user-attachments/assets/ec13f29b-d5a2-40a3-8bb2-dc2e95d5a83c" />
-
-
 # Test Bench output
 
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/c35c5630-ea7a-4355-8a11-b74fbbd3e8a1" />
